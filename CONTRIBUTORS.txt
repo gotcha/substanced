@@ -117,3 +117,4 @@ Contributors
 
 - Sébastien Verbois, 2013/10/05
 
+- Godefroid Chapelle, 2013/10/09
